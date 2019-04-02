@@ -1,0 +1,6 @@
+framework module Pods_TestQR {
+  umbrella header "Pods-TestQR-umbrella.h"
+
+  export *
+  module * { export * }
+}
